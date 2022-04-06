@@ -8,7 +8,7 @@ import { MdOutlineArrowDropDown } from "react-icons/md";
 export function Header() {
   return (
     <div className={styles.main}>
-      <div className={styles.mobileDiv}>
+      <div className={styles.container}>
         <div className={styles.top}>
           <div className={styles.leftDiv}>
             <span>
